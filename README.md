@@ -1,2 +1,2 @@
 # Covid19_Dashboard
-This repository contains my first Excel dashboard project for analyzing bike sales data. The project involves data cleaning and the use of pivot tables to create an interactive and insightful dashboard
+This repository includes a comprehensive COVID-19 dashboard that provides detailed information on the global impact of the pandemic, with insights and data visualizations for each affected country.
